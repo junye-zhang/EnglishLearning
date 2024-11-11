@@ -11,12 +11,10 @@
 ## Example sentence
 
 1. My name is Junye, but you can also call me Jay. Junye might be a bit difficult for non-native speakers to pronounce, so either name is fine with me.
-2. 
 
 ## English learning resources
 
 - English talkshow
-- kownlegage plant
 - English podcast channel "eight miniutes podcast"
 
 
