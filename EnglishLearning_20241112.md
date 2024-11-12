@@ -46,3 +46,27 @@
 
 因此，"week" 可以表示5天的工作日，也可以表示7天的一周，具体取决于上下文。
 
+## like that
+
+"Like that" 是一个常用的英语短语，它可以有几种不同的含义，具体取决于上下文：
+
+1. **方式或方法**：指以某种特定的方式或方法做事。
+   - 例如："Can you do it like that?"（你能像那样做吗？）
+
+2. **相似**：指与某物或某人相似。
+   - 例如："She looks like her mother."（她看起来像她妈妈。）
+
+3. **那样子**：指某物的外观或状态。
+   - 例如："I like the painting just like that."（我喜欢那幅画，就那样。）
+
+4. **按照那样**：指按照某种特定的指示或规则。
+   - 例如："Please follow the instructions like that."（请按照那些指示来做。）
+
+5. **确认或同意**：在对话中用来表示同意或确认。
+   - 例如："Is this the right way to go?" "Yeah, like that."（这是正确的路吗？是的，就那样。）
+
+6. **举例**：用来提供一个例子或说明。
+   - 例如："You can use any fruit, like that apple over there."（你可以用任何水果，比如那边的苹果。）
+
+如果你需要更具体的解释或用法，请提供上下文。
+
